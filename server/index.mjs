@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 const rootDir = path.resolve(__dirname, '..');
 dotenv.config({ path: path.join(rootDir, '.env.local'), override: false });
 const dataDir = path.join(rootDir, 'data');
-const dbPath = path.join(dataDir, 'taste-nanjing.sqlite');
+const dbPath = path.join(dataDir, 'taste-china.sqlite');
 const uploadsDir = path.join(dataDir, 'uploads');
 const distDir = path.join(rootDir, 'dist');
 const port = Number(process.env.PORT || 8787);
