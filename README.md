@@ -1,6 +1,6 @@
 # 🥢 Taste China — Preview Package
 
-AI-powered Nanjing food discovery app. Menu OCR translation, foodie community, AI food assistant — all in one package.
+AI-powered Chinese cuisine discovery app — rooted in Nanjing. Menu OCR translation, foodie community, AI food assistant — all in one package.
 
 ---
 
@@ -112,7 +112,7 @@ DEEPSEEK_API_KEY="sk-your-key-here"
 - 📱 **iPhone 15 Pro Frame** — Beautiful mobile preview with onboarding flow
 - 🎬 **Video Posts** — Watch clips from chefs and foodies
 - 🕌 **Dietary Guidance** — Halal, Vegan, GF labels on every dish
-- 📍 **Nanjing Recommendations** — Curated restaurant picks in Nanjing
+- 📍 **Local Recommendations** — Curated restaurant picks in Nanjing
 
 ---
 
